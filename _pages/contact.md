@@ -10,7 +10,7 @@ comments: true
 
 <p>If you have any request, you can reach me out by <a href="{{ site.email }}">email</a>.</p>
 
-<p>Feel free to consult my professional page on <a href="{{ site.linkedin }}">LinkedIn</a>.</p>
+<p>Feel free to contact my professional page on <a href="{{ site.linkedin }}">LinkedIn</a>.</p>
 
 <p>Stay tuned with my latest articles . Also, don't hesitate to follow me on my social profiles below!</p>
 
