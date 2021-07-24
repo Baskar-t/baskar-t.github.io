@@ -15,7 +15,8 @@ comments: true
 <p>Stay tuned with my latest articles . Also, don't hesitate to follow me on my social profiles below!</p>
 
 <br />
-
+  
+{% include contact.html %}
 
 </div>
 
