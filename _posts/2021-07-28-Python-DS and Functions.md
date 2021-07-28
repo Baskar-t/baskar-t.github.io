@@ -21,7 +21,7 @@ lst = ['a', 'b', 'c', 'd']
 #find length of a list
 print(len(lst))
 ```
-
+Output:
     4
     
 
