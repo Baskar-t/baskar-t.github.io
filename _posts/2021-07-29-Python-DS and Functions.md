@@ -1,8 +1,9 @@
 ---
-layout	title	author	categories	tags	image	description	featured	hidden	rating
-post
-Python-DS and Functions
-Baskaran Thulukanam
+layout: post
+title:  "Python Dara Structures and Functions"
+author: Baskaran Thulukanam
+featured: true
+hidden: true
 ---
 
 
