@@ -4,7 +4,7 @@ title:  "Python Dara Structures and Functions"
 author: Baskaran Thulukanam
 image: assets/images/11.jpg
 featured: false
-hidden: true
+hidden: false
 ---
 
 
