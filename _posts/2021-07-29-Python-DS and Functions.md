@@ -1,10 +1,8 @@
-
-
 ---
 layout: post
 title:  "Python Data Structures and Functions"
 author: Baskaran Thulukanam
-image: assets/images/12.jpg
+image: assets/images/13.jpg
 featured: false
 hidden: false
 ---
