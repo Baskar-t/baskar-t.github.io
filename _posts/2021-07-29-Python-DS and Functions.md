@@ -1,3 +1,11 @@
+---
+layout	title	author	categories	tags	image	description	featured	hidden	rating
+post
+Python-DS and Functions
+Baskaran Thulukanam
+---
+
+
 ### Python Lists
 
 -> List is one of the Sequence Data structure
