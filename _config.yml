@@ -18,7 +18,8 @@ authors:
   baskar:
     name: Baskaran Thulukanam
     display_name: Baskar
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: baskar.mailbox@gmail.com
     description: "Machine learning and Deep learning blogs"
   
