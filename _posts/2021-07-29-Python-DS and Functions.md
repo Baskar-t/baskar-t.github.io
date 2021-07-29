@@ -1,6 +1,8 @@
+
+
 ---
 layout: post
-title:  "Python Dara Structures and Functions"
+title:  "Python Data Structures and Functions"
 author: Baskaran Thulukanam
 image: assets/images/12.jpg
 featured: false
