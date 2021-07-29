@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Python Data Structures and Functions"
-author: Baskaran Thulukanam
+author: baskar
 image: assets/images/13.jpg
 categories: [Python DS]
 tags: [Python]
