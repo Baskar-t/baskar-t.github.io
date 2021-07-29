@@ -3,8 +3,8 @@ layout: post
 title:  "Python Data Structures and Functions"
 author: Baskaran Thulukanam
 image: assets/images/13.jpg
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
+categories: [Python DS]
+tags: [Python]
 featured: false
 hidden: false
 ---
