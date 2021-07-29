@@ -2,7 +2,7 @@
 layout: post
 title:  "Python Dara Structures and Functions"
 author: Baskaran Thulukanam
-image: assets/images/11.jpg
+image: assets/images/12.jpg
 featured: false
 hidden: false
 ---
