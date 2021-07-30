@@ -7,7 +7,7 @@ linkedin: https://www.linkedin.com/in/baskaran-thulukanam-3472179/
 github: https://github.com/baskar-t
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
-google_analytics:
+google_analytics:'G-BY8JX1R1Y1'
 disqus: 'baskar-t-github-io'
 mailchimp-list: 'https://gmail.us6.list-manage.com/subscribe?u=a297cf3e4b54c5d45370e381f&id=6a46f295fe'
 include: ["_pages"]
