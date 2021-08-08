@@ -10,8 +10,6 @@ hidden: false
 ---
 
 
-# Face Mask Dectection using Machine Learning and Deep Learning
-
 Construct a CNN model to detect if a person is wearing a face mask or not with your webcam or mobile camera.
 
 
