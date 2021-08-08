@@ -6,7 +6,7 @@ image: assets/images/out.jpg
 categories: [ML & DL projects]
 tags: [Python, ML, SVM]
 featured: True
-hidden: false
+hidden: True
 ---
 
 
