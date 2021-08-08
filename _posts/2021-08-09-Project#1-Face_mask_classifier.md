@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "Face Mask Dectection using Machine Learning and Deep Learning"
+author: baskar
+image: assets/images/out.jpg
+categories: [ML & DL projects]
+tags: [Python, ML, SVM]
+featured: True
+hidden: false
+---
+
+
 # Face Mask Dectection using Machine Learning and Deep Learning
 
 Construct a CNN model to detect if a person is wearing a face mask or not with your webcam or mobile camera.
