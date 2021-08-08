@@ -3,6 +3,7 @@ name: "Baskaran Thulukanam"
 title: "Baskaran Thulukanam"
 description: "Machine Learning and Deep Learning blogs"
 email: baskar.mailbox@gmail.com
+baseurl: /baskar-t.github.io
 linkedin: https://www.linkedin.com/in/baskaran-thulukanam-3472179/
 github: https://github.com/baskar-t
 twitter: https://twitter.com/baskarant
