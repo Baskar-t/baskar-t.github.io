@@ -11,8 +11,9 @@ hidden: false
 
 
 Learn how to do zero-shot classification of text using the Huggingface 
-transformers pipeline
+transformers pipeline.
 
+Steps to implement the sentiment analysis classifier,
 
 ```python
 # Install hugging face transformers 
