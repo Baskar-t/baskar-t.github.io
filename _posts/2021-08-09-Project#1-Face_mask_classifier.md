@@ -2,7 +2,7 @@
 layout: post
 title:  " Project#1 Face Mask Dectection using Machine Learning and Deep Learning"
 author: baskar
-image: assets/images/out.jpg
+image: assets/images/mask_image.jpg
 categories: [ML & DL projects]
 tags: [Python, ML, SVM]
 featured: True
