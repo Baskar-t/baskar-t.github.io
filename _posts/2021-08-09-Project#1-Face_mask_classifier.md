@@ -7,6 +7,7 @@ categories: [ML & DL projects]
 tags: [Python, ML, SVM]
 featured: True
 hidden: True
+applause_button:       true
 ---
 
 
