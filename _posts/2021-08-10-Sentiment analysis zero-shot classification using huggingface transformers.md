@@ -1,15 +1,9 @@
----
-layout: post
-title:  " Sentiment analysis zero-shot classification using huggingface transformers"
-author: baskar
-image: assets/images/image1.jfif
-categories: [ML & DL projects]
-tags: [Huggingface,tranformers]
-featured: false
-hidden: false
----
+### Sentiment analysis zero-shot classification using huggingface transformers
 
+
+```python
 Learn how to do zero-shot classification of text using the Huggingface transformers pipeline
+```
 
 
 ```python
