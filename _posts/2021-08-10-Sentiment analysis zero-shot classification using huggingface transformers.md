@@ -4,7 +4,7 @@ title:  " Sentiment analysis zero-shot classification using huggingface transfor
 author: baskar
 image: assets/images/image1.jfif
 categories: [ML & DL projects]
-tags: [Huggingface,tranformers]
+tags: [Huggingface,transformers]
 featured: false
 hidden: false
 ---
