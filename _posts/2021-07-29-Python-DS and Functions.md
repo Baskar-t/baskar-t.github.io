@@ -3,7 +3,7 @@ layout: post
 title:  "Python Data Structures and Functions"
 author: baskar
 image: assets/images/13.jpg
-categories: [Python DS]
+categories: [Python]
 tags: [Python]
 featured: false
 hidden: false
