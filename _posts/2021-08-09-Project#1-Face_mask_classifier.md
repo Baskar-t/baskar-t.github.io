@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " Project#1 Face Mask Dectection using Machine Learning and Deep Learning"
+title:  " Project#1 Face Mask Detection using Machine Learning and Deep Learning"
 author: baskar
 image: assets/images/mask_image.jpeg
 categories: [ML & DL projects]
