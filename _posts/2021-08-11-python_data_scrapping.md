@@ -78,6 +78,3 @@ df.head(5)
 ![reviews_dataframe](../assets/images/Capture1.PNG)
 
 
-```python
-
-```
