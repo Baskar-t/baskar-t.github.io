@@ -16,7 +16,7 @@ Data scrapping using python beautiful soup
 In the blog, we would see an example to scrape user reviews from Comparably reviews website, the below snapshot has the deatils of employee reviews.
 We would scrape the review text and write it to a Pandas dataframe.
 
-![reviews_site.PNG](assets/images/Capture.PNG)
+![reviews_site](assets/images/Capture.PNG)
 
 The HTML tags associated with the review text in the website , can be identified using F12 page debugging mode.The tag class for review text identified as 'class_="cppRH-review-quote'.
 
@@ -75,7 +75,7 @@ df = pd.DataFrame(rec_list, columns =['Review'])
 df.head(5)
 ```
 
-![reviews_dataframe.PNG](assets/images/Capture1.PNG)
+![reviews_dataframe](assets/images/Capture1.PNG)
 
 
 ```python
