@@ -1,3 +1,16 @@
+---
+layout: post
+title:  " Python Beautiful Soup data scrapping"
+author: baskar
+image: assets/images/web_scrapping.jfif
+categories: [python]
+tags: [beaufitul soup,web scrapping]
+featured: false
+hidden: false
+---
+
+
+
 Data scrapping using python beautiful soup
 
 In the blog, we would see an example to scrape user reviews from Comparably reviews website, the below snapshot has the deatils of employee reviews.
