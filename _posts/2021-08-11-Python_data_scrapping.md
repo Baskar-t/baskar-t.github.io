@@ -2,7 +2,7 @@
 layout: post
 title:  " Python Beautiful Soup data scrapping"
 author: baskar
-image: assets/images/web_scrapping.jpeg
+image: assets/images/web_scrapping.jfif
 categories: [python]
 tags: [beaufitul soup,web scrapping]
 featured: false
