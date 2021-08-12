@@ -1,3 +1,16 @@
+---
+layout: post
+title:  " Python lazy predict to evaluate all models frrom scikit-learn"
+author: baskar
+image: assets/images/lazypredict.jfif
+categories: [Python]
+tags: [lazy predict,scikit-learn]
+featured: false
+hidden: false
+---
+
+
+
 lazy predict : fit and evaluate all the models from scikit-learn with a single line of code
 
 The dataset used for the example to show the comparison of different classification models is breast cancer dataset from the sklearn library
