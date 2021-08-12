@@ -74,7 +74,7 @@ classifier(sequence, candidate_labels,hypothesis_template=hypothesis_template)
  'scores': [0.6742060780525208, 0.32579392194747925],
  'sequence': 'Tech Companies in India are having problem raising funds. Nevertheless, they are doing great with customer acquisition'}
 
-The below code snippers is a sentiment classifier function , given a text as input the sentiment of that text is generated.
+The below code snippet is a sentiment classifier function , given a text as input the sentiment of that text is generated.
 
 
 ```python
