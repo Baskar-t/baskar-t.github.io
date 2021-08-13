@@ -1,3 +1,17 @@
+---
+layout: post
+title:  " SQL concepts for Data Science"
+author: baskar
+image: assets/images/sql.jfif
+categories: [Python]
+tags: [lazy predict,scikit-learn]
+featured: false
+hidden: false
+---
+
+
+
+
 SQL concepts for data science
 
 #### CASE WHEN
@@ -15,7 +29,7 @@ FROM OrderDetails
 LIMIT 5;
 ```
 
-![sql_result1-2.PNG](attachment:sql_result1-2.PNG)
+![sql_result1-2.PNG](../assets/images/sql/sql_result1-2.PNG)
 
 #### Left Joins vs Inner Joins
 
@@ -28,7 +42,7 @@ INNER JOIN table2
 ON table1.column_name = table2.column_name;
 ```
 
-![sql_result2.PNG](attachment:sql_result2.PNG)
+![sql_result2.PNG](../assets/images/sql/sql_result2.PNG)
 
 #### LEFT JOIN Syntax or LEFT OUTER JOIN
 
@@ -40,7 +54,7 @@ LEFT JOIN table2
 ON table1.column_name = table2.column_name;
 ```
 
-![sql_result_5.PNG](attachment:sql_result_5.PNG)
+![sql_result_5.PNG](../assets/images/sql/sql_result_5.PNG)
 
 #### RIGHT JOIN Syntax or RIGHT OUTER JOIN
 
@@ -52,7 +66,7 @@ RIGHT JOIN table2
 ON table1.column_name = table2.column_name;
 ```
 
-![sql_result_6.PNG](attachment:sql_result_6.PNG)
+![sql_result_6.PNG](../assets/images/sql/sql_result_6.PNG)
 
 #### FULL JOIN OR FULL OUTER JOIN
 
@@ -65,7 +79,7 @@ ON table1.column_name = table2.column_name
 WHERE condition;
 ```
 
-![sql_result_7.PNG](attachment:sql_result_7.PNG)
+![sql_result_7.PNG](../assets/images/sql/sql_result_7.PNG)
 
 #### SQL HAVING Clause
 
