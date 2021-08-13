@@ -3,8 +3,8 @@ layout: post
 title:  " SQL concepts for Data Science"
 author: baskar
 image: assets/images/sql.jfif
-categories: [Python]
-tags: [lazy predict,scikit-learn]
+categories: [SQL]
+tags: [SQL]
 featured: false
 hidden: false
 ---
