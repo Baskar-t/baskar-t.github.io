@@ -29,7 +29,7 @@ FROM OrderDetails
 LIMIT 5;
 ```
 
-![sql_result1-2.PNG](../assets/images/sql/sql_result1-2.PNG)
+![sql_result1-2.PNG](../assets/images/sql/sql_result1.PNG)
 
 #### Left Joins vs Inner Joins
 
