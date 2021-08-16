@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " Python lazy predict to evaluate all models frrom scikit-learn"
+title:  " Python lazy predict to evaluate all models from scikit-learn"
 author: baskar
 image: assets/images/lazypredict.jfif
 categories: [Python]
