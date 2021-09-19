@@ -50,9 +50,7 @@ Object storage, serverless, pay as you go
 - 3500 PUT/COPY/POST/DELETE AND 5500 GET/HEAD req per second per prefix in a bucket
 - No limit on prefixes
 - Need to shard across prefixes for maximum performance
-- **Multi-part upload** for files over 5GB, recommended for files for 100MB
-
-Speeds up uploads by doing in parallel
+- **Multi-part upload** for files over 5GB, recommended for files for 100MB speeds up uploads by doing in parallel
 
 **S3 Transfer Acceleration** (upload only)
 
