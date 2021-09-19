@@ -120,19 +120,19 @@ Increase uploads, can be combined with multi-part upload
 - **Evaluate different amazon EC2 Instance types**
 - **Check DNS look up time,latency,data transfer speed using HTTP analysis tools**
 
-1. **Scale storage containers horizontally**
+2. **Scale storage containers horizontally**
 - **Spreading requests accross many conenctions**
 - **S3 doesnt have any limits on number of connections made to your bucket**
 
-1. **Use Byte-Range Fetches**
+3. **Use Byte-Range Fetches**
 - **Use range HTTP header in tthe GET object request and use concurrent connections to S3**
 
-1. **Combine S3 and EC2 in the same AWS region**
+4. **Combine S3 and EC2 in the same AWS region**
 
-1. **Use Amazon S3 tranfer acceleration to minimize latency**
+5. **Use Amazon S3 tranfer acceleration to minimize latency**
 
-1. **Use latest versioin of AWS SDKs which provides Transfer Manager which automates horizontal scaling connections**
+6. **Use latest versioin of AWS SDKs which provides Transfer Manager which automates horizontal scaling connections**
 
-1. **Use caching for frequently accessed content using Amazon cloudfront,Amazon Elasticache for REDIS,AWS elemental media store.**
-1. **Timeouts and retries for latency sentive applications**
+7. **Use caching for frequently accessed content using Amazon cloudfront,Amazon Elasticache for REDIS,AWS elemental media store.**
+8. **Timeouts and retries for latency sentive applications**
    - **AWS SDK implements automatic retry logic while receiving HTTP 503 error using exponential backoff.**
