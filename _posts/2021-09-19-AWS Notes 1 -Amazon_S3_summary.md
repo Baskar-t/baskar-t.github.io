@@ -11,8 +11,6 @@ hidden: false
 
 
 
-**S3**
-
 - Object storage, serverless, pay as you go
 
 **Anti-Patterns**
@@ -62,19 +60,19 @@ Increase uploads, can be combined with multi-part upload
 
 - **S3 Byte-Range Fetches**
 
-`   `Parallelize GETs
+          - Parallelize GETs
 
-`  	   `Speed up downloads
+          - Speed up downloads
 
-`         `Can resume sections
+           - Can resume sections
 
-`         `Only retrieve first part of files
+           - Only retrieve first part of files
 
 - **S3/Glacier Select**
 
-`   `Retrieve data using SQL by performing server side filtering
+   - Retrieve data using SQL by performing server side filtering
 
-`   `less network transfer, less CPU cost client-side
+   - less network transfer, less CPU cost client-side
 
 
 
@@ -117,15 +115,15 @@ Increase uploads, can be combined with multi-part upload
 **Summary:**
 
 1. **Measure Performance**
-- **Evaluate different amazon EC2 Instance types**
-- **Check DNS look up time,latency,data transfer speed using HTTP analysis tools**
+- Evaluate different amazon EC2 Instance types
+- Check DNS look up time,latency,data transfer speed using HTTP analysis tools
 
 2. **Scale storage containers horizontally**
-- **Spreading requests accross many conenctions**
-- **S3 doesnt have any limits on number of connections made to your bucket**
+- Spreading requests accross many conenctions**
+- S3 doesnt have any limits on number of connections made to your bucket
 
 3. **Use Byte-Range Fetches**
-- **Use range HTTP header in tthe GET object request and use concurrent connections to S3**
+- Use range HTTP header in tthe GET object request and use concurrent connections to S3
 
 4. **Combine S3 and EC2 in the same AWS region**
 
@@ -135,4 +133,4 @@ Increase uploads, can be combined with multi-part upload
 
 7. **Use caching for frequently accessed content using Amazon cloudfront,Amazon Elasticache for REDIS,AWS elemental media store.**
 8. **Timeouts and retries for latency sentive applications**
-   - **AWS SDK implements automatic retry logic while receiving HTTP 503 error using exponential backoff.**
+   - AWS SDK implements automatic retry logic while receiving HTTP 503 error using exponential backoff.
