@@ -11,7 +11,7 @@ hidden: false
 
 
 
-- Object storage, serverless, pay as you go
+Object storage, serverless, pay as you go
 
 **Anti-Patterns**
 
