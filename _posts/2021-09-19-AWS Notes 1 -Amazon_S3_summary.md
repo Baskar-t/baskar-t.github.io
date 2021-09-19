@@ -1,4 +1,17 @@
-﻿**S3**
+---
+layout: post
+title:  " AWS Notes #1 Amazon S3 Summary"
+author: baskar
+image: assets/images/S3.jfif
+categories: [AWS]
+tags: [AWS]
+featured: false
+hidden: false
+---
+
+
+
+**S3**
 
 - Object storage, serverless, pay as you go
 
