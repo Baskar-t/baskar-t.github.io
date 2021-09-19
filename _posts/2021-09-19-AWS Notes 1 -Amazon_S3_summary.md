@@ -59,15 +59,12 @@ Speeds up uploads by doing in parallel
 Increase uploads, can be combined with multi-part upload
 
 - **S3 Byte-Range Fetches**
+          -  Parallelize GETs
+          -  Speed up downloads
+          -  Can resume sections
+          -  Only retrieve first part of files
 
-          - Parallelize GETs
-
-          - Speed up downloads
-
-           - Can resume sections
-
-           - Only retrieve first part of files
-
+        
 - **S3/Glacier Select**
 
    - Retrieve data using SQL by performing server side filtering
