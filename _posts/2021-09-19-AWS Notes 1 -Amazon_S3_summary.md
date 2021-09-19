@@ -56,7 +56,7 @@ Speeds up uploads by doing in parallel
 
 **S3 Transfer Acceleration** (upload only)
 
-Increase uploads, can be combined with multi-part upload
+- Increase uploads, can be combined with multi-part upload
 
 - **S3 Byte-Range Fetches**
           -  Parallelize GETs
@@ -79,7 +79,7 @@ Increase uploads, can be combined with multi-part upload
 
 **Analytics**
 
-- Data lake con concepts          - Athenam Redshidt spectrum,Quicksight
+- Data lake concepts              - Athena Redshidt spectrum,Quicksight
 - IOT streaming data repository   - Kinesis Firehose
 - Machine learning and AI storage – Recognition,Lex,MxNet
 - Storage class analysis          - S3 Management analysis
@@ -96,7 +96,7 @@ Increase uploads, can be combined with multi-part upload
 **S3 Nifty Tricks**
 
 - Transfer acceleration
-- Requestor Paya
+- Requestor Pay
 - Tags
 - Events
 - Statis web hosting
