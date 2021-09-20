@@ -14,13 +14,13 @@ hidden: false
 Object storage, serverless, pay as you go
 
 
-####Anti-Patterns
+#### Anti-Patterns
 
 - lots of small files
 - no file locking
 - search features
 
-####Classes
+#### Classes
 
 - Standard
 - Intelligent Tiering
@@ -28,12 +28,12 @@ Object storage, serverless, pay as you go
 - S3 Glacier
 - Glacier Deep Archive
 
-####Replication
+#### Replication
 
 - Cross and same region replication
 - Reduce latency, securitty, recovery
 
-####Notifications
+#### Notifications
 
 - Notifications on various S3 actions
 - Can trigger Lambda or other things
@@ -41,7 +41,7 @@ Object storage, serverless, pay as you go
 - Take seconds up to a couple minutes
 - Must enable versioning to ensure multiple-write notifications
 
-####CloudWatch Events
+#### CloudWatch Events
 
 - Need to enable CloudTrail logs for S3 actions on object-level calls
 
