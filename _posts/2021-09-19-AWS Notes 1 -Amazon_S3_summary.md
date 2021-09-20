@@ -11,10 +11,6 @@ hidden: false
 
 
 
-
-
-
-
 Object storage, serverless, pay as you go
 
 **Anti-Patterns**
@@ -74,11 +70,6 @@ Object storage, serverless, pay as you go
    - less network transfer, less CPU cost client-side
 
 
-
-
-
-
-
 **Analytics**
 
 - Data lake concepts              - Athena Redshidt spectrum,Quicksight
@@ -103,8 +94,6 @@ Object storage, serverless, pay as you go
 - Events
 - Statis web hosting
 - BitTorrent
-
-
 
 
 **AWS white paper – Perfomance guidelines for Amazon S3**
