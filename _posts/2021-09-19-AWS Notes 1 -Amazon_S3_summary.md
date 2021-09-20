@@ -81,7 +81,7 @@ Object storage, serverless, pay as you go
 
 **S3 Encrytion at rest**
 
-- SSE-S2
+- SSE-S3
 - SSE-C
 - SSE-KMS
 - Client side
