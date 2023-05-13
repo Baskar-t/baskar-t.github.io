@@ -1,21 +1,12 @@
 ---
-jupyter:
-  kernelspec:
-    display_name: Python 3
-    language: python
-    name: python3
-  language_info:
-    codemirror_mode:
-      name: ipython
-      version: 3
-    file_extension: .py
-    mimetype: text/x-python
-    name: python
-    nbconvert_exporter: python
-    pygments_lexer: ipython3
-    version: 3.7.3
-  nbformat: 4
-  nbformat_minor: 2
+layout: post
+title:  "Exploratory data analysis"
+author: baskar
+image: assets/images/13.jpg
+categories: [EDA]
+tags: [EDA]
+featured: false
+hidden: false
 ---
 
 <div class="cell markdown">
