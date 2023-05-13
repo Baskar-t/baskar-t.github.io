@@ -5,7 +5,7 @@ author: baskar
 image: assets/images/13.jpg
 categories: [EDA]
 tags: [EDA]
-featured: false
+featured: true
 hidden: false
 ---
 
