@@ -3,13 +3,13 @@ layout: post
 title:  "Exploratory data analysis"
 author: baskar
 image: assets/images/13.jpg
-categories: [EDA]
-tags: [EDA]
-featured: true
+categories: [Python]
+tags: [python]
+featured: false
 hidden: false
 ---
 
-<div class="cell markdown">
+
 
 ### Assignment 02. Exploratory data analysis on haberman dataset
 
